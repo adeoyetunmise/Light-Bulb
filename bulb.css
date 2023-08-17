@@ -1,0 +1,25 @@
+
+:root {
+    font-size: 20px;
+    box-sizing: inherit;
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  #card{
+    margin-left: 400px;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+    display: flex;
+  }
+  #off{
+    margin-top: 300px;
+  }
+
+  #on{
+    margin-top: 300px;
+  }
